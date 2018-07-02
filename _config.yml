@@ -5,6 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Praise No One Official Web Page.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/praisenoone" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: praisenoone
 github_username:  jonathang92
 # markdown: kramdown
